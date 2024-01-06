@@ -3,7 +3,7 @@ import {
   MdInfoOutline,
   MdMailOutline,
   MdOutlineAppRegistration,
-  MdOutlineBookmarkAdd,
+  MdOutlineDesignServices,
   MdOutlineFeed,
   MdOutlineHome,
 } from "react-icons/md";
@@ -30,11 +30,11 @@ export default function MenuItemList() {
           icon={FaRegAddressCard}
         ></MenuItem>
       </Link>
-      <Link href="/interests" style={{ textDecoration: "none" }}>
+      <Link href="/expertise" style={{ textDecoration: "none" }}>
         <MenuItem
-          href="/interests"
-          title="Interests"
-          icon={MdOutlineBookmarkAdd}
+          href="/expertise"
+          title="Expertise"
+          icon={MdOutlineDesignServices}
         ></MenuItem>
       </Link>
       <Link href="/portfolio" style={{ textDecoration: "none" }}>
