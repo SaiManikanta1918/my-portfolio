@@ -175,6 +175,132 @@
       }
     ]
   },
+  "skills": [
+    {
+      "title": "Java",
+      "icon": "GrJava"
+    },
+    {
+      "title": "Python",
+      "icon": "IoLogoPython"
+    },
+    {
+      "title": "JavaScript",
+      "icon": "BiLogoJavascript"
+    },
+    {
+      "title": "Solidity",
+      "icon": "SiSolidity"
+    },
+    {
+      "title": "Node",
+      "icon": "GrNode"
+    },
+    {
+      "title": "ReactJS",
+      "icon": "GrReactjs"
+    },
+    {
+      "title": "Arduino",
+      "icon": "SiArduino"
+    },
+    {
+      "title": "Debugging",
+      "icon": "CgDebug"
+    },
+    {
+      "title": "Git",
+      "icon": "FaGitAlt"
+    },
+    {
+      "title": "Agile Methodologies",
+      "icon": "DiScrum"
+    },
+    {
+      "title": "Unit Testing",
+      "icon": "FaCheckDouble"
+    },
+    {
+      "title": "PostgreSQL",
+      "icon": "BiLogoPostgresql"
+    },
+    {
+      "title": "MongoDB",
+      "icon": "SiMongodb"
+    },
+    {
+      "title": "Serverless Functions",
+      "icon": "PiFunctionBold"
+    },
+    {
+      "title": "Deployment",
+      "icon": "BsFillCloudArrowUpFill "
+    },
+    {
+      "title": "DNS Management",
+      "icon": "LuServerCog"
+    },
+    {
+      "title": "Hyperledger Besu",
+      "icon": "SiHyperledger"
+    },
+    {
+      "title": "Smart Contract Development",
+      "icon": "FaFileContract "
+    },
+    {
+      "title": "Private Blockchain",
+      "icon": "SiEthereum"
+    },
+    {
+      "title": "RaspberryPi",
+      "icon": "FaRaspberryPi"
+    },
+    {
+      "title": "Internet of Things",
+      "icon": "MdSensors"
+    },
+    {
+      "title": "MS Office",
+      "icon": "SiMicrosoftoffice"
+    },
+    {
+      "title": "Adobe Photoshop",
+      "icon": "SiAdobephotoshop"
+    },
+    {
+      "title": "Canva",
+      "icon": "SiCanva"
+    },
+    {
+      "title": "Team Management",
+      "icon": "RiTeamFill"
+    },
+    {
+      "title": "Leadership",
+      "icon": "BsFillPersonLinesFill"
+    },
+    {
+      "title": "Problem Solving",
+      "icon": "FaLightbulb"
+    },
+    {
+      "title": "Effective Communication",
+      "icon": "FaComments"
+    },
+    {
+      "title": "Negotiation",
+      "icon": "FaHandshake"
+    },
+    {
+      "title": "Remote Collaboration",
+      "icon": "FaHouseLaptop"
+    },
+    {
+      "title": "Teamwork",
+      "icon": "BiGroup"
+    }
+  ],
   "interests": [
     {
       "title": "Blockchain",
