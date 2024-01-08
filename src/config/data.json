@@ -354,7 +354,7 @@
       {
         "title": "DIY Portfolio",
         "description": "A user-friendly, open-source portfolio website that can be cloned and personalized with a single config file modification.",
-        "link": "https://diy-portfolio-sample.vercel.app",
+        "link": "https://github.com/ManishReddyN/diy-portfolio",
         "imageName": "portfolio.webp",
         "imageAlt": "Portfolio Image",
         "technologies": ["NextJS", "Edge Functions", "CSS", "Notion API"]
