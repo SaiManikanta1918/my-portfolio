@@ -1,7 +1,7 @@
-import Base from "@/components/base";
 import Portfolio from "@/components/portfolio/portfolio";
 import Head from "next/head";
 import data from "@/config/data.json";
+import Base from "@/components/base";
 
 export default function PortfolioPage() {
   return (

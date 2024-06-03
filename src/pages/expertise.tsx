@@ -1,8 +1,8 @@
-import Base from "@/components/base";
 import Interests from "@/components/interests/interests";
 import Skills from "@/components/skills/skills";
 import Head from "next/head";
 import data from "@/config/data.json";
+import Base from "@/components/base";
 
 export default function ExpertisePage() {
   return (

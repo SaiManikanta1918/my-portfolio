@@ -102,7 +102,7 @@
 }
 .portfolioItemTechnologies span {
   background-color: var(--secondary-accent-color);
-  padding: 4px 7px 2px 7px;
+  padding: 4px 7px;
   border-radius: 20px;
   margin-right: 5px;
 }

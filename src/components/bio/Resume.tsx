@@ -8,7 +8,6 @@ import data from "@/config/data.json";
 export default function Resume() {
   const workExperience = data.bio.workExperience;
   const education = data.bio.education;
-  const volunteerExperience = data.bio.volunteerExperience;
   return (
     <div className="containerMain">
       <Title title="Biography" />
@@ -38,22 +37,6 @@ export default function Resume() {
                 organization={item.institution}
                 hyperlink={item.institutionURL}
                 roleAndYearArray={item.degrees}
-              />
-            ))}
-        </div>
-      </div>
-      <div>
-        {volunteerExperience && (
-          <SectionTitle icon={FaHandsHelping} title="Volunteer Experience" />
-        )}
-        <div className={styles.bioWrapper}>
-          {volunteerExperience &&
-            volunteerExperience.map((item) => (
-              <BioItem
-                key={item.organization}
-                organization={item.organization}
-                hyperlink={item.organizationURL}
-                roleAndYearArray={item.roles}
               />
             ))}
         </div>

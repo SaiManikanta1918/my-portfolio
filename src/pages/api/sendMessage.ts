@@ -1,4 +1,5 @@
 import type { NextRequest } from "next/server";
+// const { Client } = require("@notionhq/client")
 
 export const config = {
   runtime: "edge",
@@ -20,6 +21,10 @@ const NOTION_HEADERS = {
   "Content-Type": "application/json",
   "Notion-Version": "2022-06-28",
 };
+
+// const notion = new Client({
+//   auth: NOTION_API_KEY
+// })
 
 export default async function sendMessage(req: NextRequest) {
   const body: MessageParams = await req.json();
@@ -50,8 +55,8 @@ export default async function sendMessage(req: NextRequest) {
           "Oops! The email ID you entered seems to be improper. Please try again.",
       };
     }
-    if (body.message.length < 50) {
-      const remainingCharacters = 50 - body.message.length;
+    if (body.message.length < 10) {
+      const remainingCharacters = 10 - body.message.length;
       return {
         message: `Your message is too short. Please add at least ${remainingCharacters} more character${
           remainingCharacters === 1 ? "" : "s"

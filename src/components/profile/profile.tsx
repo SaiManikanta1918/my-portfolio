@@ -29,9 +29,9 @@ export default function Profile() {
               blurDataURL={avatarBlur}
               sizes="100vw"
               style={{
-                width: "100%",
+                width: "50%",
                 height: "auto",
-                maxWidth: "100%",
+                maxWidth: "50%",
               }}
             ></Image>
           </div>
@@ -43,11 +43,6 @@ export default function Profile() {
             </h2>
             <p>{profileData.bio}</p>
             <ul>
-              {profileData.details.nationality && (
-                <li>
-                  <b>Nationality</b> {profileData.details.nationality}
-                </li>
-              )}
               {profileData.details.location && (
                 <li>
                   <b>Location</b> {profileData.details.location}

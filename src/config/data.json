@@ -4,174 +4,118 @@
     "alt": "Display Picture"
   },
   "home": {
-    "name": "Manish",
-    "intro": "I am a software engineer who loves technology, computers and everything gadgets. I enjoy building new things and relish the logical thinking that comes with it.\nWhen I am not working, I like to ride my bike and explore new trails.",
+    "name": "SaiManikanta",
+    "intro": "A Strategic Software Engineer with about 3 years of industry experience and skilled in application development, testing and optimization. Excels at coordinating ground-up planning, programming, and implementation for core modules.Maintains strong object-oriented and software architecture fundamentals. Talented Software Developer equipped with great coding, debugging and project management abilities. Accomplishes project goals consistently with elegant, scalable code. Works great with team members under Agile and Scrum frameworks.",
     "socialLinks": [
       {
         "name": "Github",
-        "link": "https://github.com/ManishReddyN/",
+        "link": "https://github.com/SaiManikanta1918",
         "icon": "IoLogoGithub"
       },
       {
         "name": "LinkedIn",
-        "link": "https://www.linkedin.com/in/ManishReddyN/",
+        "link": "https://www.linkedin.com/in/sai-manikanta-karnati-9a62601b1/",
         "icon": "IoLogoLinkedin"
-      },
-      {
-        "name": "Blog",
-        "link": "https://blog.nmreddy.me/",
-        "icon": "IoReader"
-      },
-      {
-        "name": "Calendly",
-        "link": "https://calendly.com/quick_connect-with-manish_reddy/30min",
-        "icon": "IoCalendar"
       }
     ]
   },
   "profile": {
-    "profilePictureFileName": "Profile.webp",
+    "profilePictureFileName": "ksm_profile_picture.jpeg",
     "profilePictureAlt": "Profile Image",
-    "name": "Manish Reddy Nandineni",
+    "name": "SaiManikanta Karnati",
     "bio": "Building, researching, and exploring technology fuels my days. Bridging tech, products, policy, philosophy, and life's big questions, I seek diverse perspectives through stimulating conversations.",
     "details": {
-      "nationality": "Indian",
-      "location": "Hyderabad",
-      "experienceStartDate": "2021-01-01",
-      "currentRole": "Senior Software Engineer",
-      "currentRoleShort": "Sr. SWE",
+      "location": "Charlotte, North Carolina, United States",
+      "experienceStartDate": "2021-08-01",
+      "currentRole": "Software Engineer",
+      "currentRoleShort": "SWE",
       "openToCollaboration": "Yes",
-      "coreCompetencies": "Technology & Operations",
-      "coreCompetenciesShort": "Tech & Ops",
-      "personalPursuits": "Blockchain & AI"
+      "coreCompetencies": "Technology & Development",
+      "coreCompetenciesShort": "Tech & Dev",
+      "personalPursuits": "ML & Mobile App Development"
     },
-    "resume": "Resume_ManishReddy_Nandineni.pdf"
+    "resume": "ksm_resume.pdf"
   },
   "bio": {
     "workExperience": [
       {
-        "company": "Siemens EDA",
+        "company": "FullyInControl",
         "roles": [
-          {
-            "title": "Senior Software Engineer",
-            "description": "Leading critical customer service requests, I deliver impactful user stories in collaboration with product owners and stakeholders leveraging Java and other tools, ensuring seamless integration and enhancing the overall quality.",
-            "year": "Dec 2023 - Present"
-          },
           {
             "title": "Software Engineer",
-            "description": "Transitioning to a key role, I focused on developing user stories and addressing critical defects within the Capital suite of software tools for EDA, contributing to the enhancement of product reliability and performance.",
-            "year": "Jul 2022 - Dec 2023"
-          },
-          {
-            "title": "Software Developer Intern",
-            "description": "Initiated as an intern, contributed to E/E system software projects for aerospace and defense. Primarily focused on Capital Data Migrate tool, rapidly upskilling and laying the foundation for my growth within the organization.",
-            "year": "Jun 2021 - Jun 2022"
+            "description": "Mainly focusses on the design part, developing new features according to the user requirements, and addressing critical defects in the product, contributing to the enhancement of product reliability and performance.",
+            "year": "Jan 2024 - Present"
           }
         ],
-        "companyURL": "https://eda.sw.siemens.com/en-US/"
+        "companyURL": "https://fullyincontrol.nl/"
       },
       {
-        "company": "ContenTerra Software",
+        "company": "Xebia (Formerly coMakeIT)",
         "roles": [
           {
-            "title": "Software Development Intern",
-            "description": "Enhanced testing efficiency by automating processes, reducing turnaround by 600%. Contributed to last-minute bug fixes leveraging Node.js and React, conducting end-to-end testing for the timely deployment of a women safety app in collaboration with the city's police department.",
-            "year": "Feb 2021 - May 2021"
+            "title": "Associate Software Engineer",
+            "description": "Worked on Pub-Sub models and developed reactive features in the application and improved existing features with new architecture. Worked on REST APIs with Node js and Express for the backend of the application. Worked on the architecture by using Design Patterns to design complex and robust features in the application. Enhanced database performance by optimizing MongoDB access through the implementation of indexes, by utilizing mongodb atlas search which is mongodb cloud service resulting in faster data retrieval and performance inprovement by 10%",
+            "year": "July 2022 - Nov 2023"
           }
         ],
-        "companyURL": "https://www.contenterra.com/"
+        "companyURL": "https://website.xebia.com/digital-transformation/software-technology/product-engineering/"
       },
       {
-        "company": "Stumagz",
+        "company": "Xebia (Formerly coMakeIT)",
         "roles": [
           {
-            "title": "Campus Lead",
-            "description": "Joined as a campus avenger in my freshman year at CMRCET's college magazine on stuMagz, contributing to the design team. Elevated to Campus Lead, continuing to actively contribute to the magazine's initiatives.",
-            "year": "Aug 2020 - Jun 2021"
+            "title": "Engineer Trainee",
+            "description": "Experienced team leader adept at overseeing React front-end projects and Java backend development with a small team during my internship. Proficient in guiding projects to success through collaborative efforts, strategic planning, and technical acumen, Participating in code reviews to ensure code quality, adherence to coding standards",
+            "year": "Aug 2021 - July 2022"
           }
         ],
-        "companyURL": "https://www.stumagz.com/"
+        "companyURL": "https://website.xebia.com/digital-transformation/software-technology/product-engineering/"
       }
     ],
     "education": [
       {
-        "institution": "Dexterity School of Leadership and Entrepreneurship",
+        "institution": "University of North Carolina At Charlotte",
         "degrees": [
           {
-            "title": "Leadership Development Program",
-            "year": "Jun 2021 - Jun 2022",
-            "description": "Engaged in a comprehensive program spanning two semesters and twelve modules, providing in-depth digital mentoring. Graduated by participating in the rigorous final week-long residential training at IRMA, Anand."
+            "title": "Master of Computer Science (MS)",
+            "year": "Jan 2024 - May 2025",
+            "description": "As a current master's student in computer science in the United States, my perspective is a dynamic blend of academic immersion and professional ambition. Every day, I find myself deeply engaged in intricate coursework and learning cutting-edge technologies that not only expand my understanding of complex algorithms and programming languages but also fuel my passion for technological innovation. Beyond the confines of the classroom, I actively seek out networking opportunities, attending industry events and connecting with professionals to stay abreast of the latest advancements in technology. Balancing academic rigor with practical experiences, such as internships or co-op positions, allows me to bridge the gap between theory and real-world applications, reinforcing the relevance of my studies to address contemporary challenges. Despite the occasional challenges, my journey in computer science is driven by a profound desire to contribute meaningfully to the ever-evolving landscape of technology, knowing that each endeavor brings me closer to realizing my aspirations and making a lasting impact on the world."
           }
         ],
-        "institutionURL": "https://www.dexschool.org/"
+        "institutionURL": "https://www.charlotte.edu/"
       },
       {
-        "institution": "CMR College of Engineering & Technology",
+        "institution": "CMR Engineering College",
         "degrees": [
           {
             "title": "Bachelor of Technology",
-            "year": "Aug 2018 - Jun 2022",
-            "description": "Graduated with First Class with Distinction (CGPA: 8.34) in Computer Science & Engineering, specializing in data structures, algorithms, blockchain, and artificial intelligence. Represented CMRCET at national-level hackathons and competitions, including IASF, SCALE, and Smart India Hackathon."
+            "year": "Aug 2018 - May 2022",
+            "description": "Graduated with First Class with Distinction (CGPA: 7.73) in Computer Science & Engineering, specializing in data structures, algorithms, and Database technologies. Represented the college at national-level and qualified in Virtusa Codelite Hackathon. Awarded with a medal for the excellant performace in final year placements and academics"
           }
         ],
-        "institutionURL": "https://www.cmrcet.ac.in/"
+        "institutionURL": "https://cmrec.ac.in/"
       },
       {
-        "institution": "VelocIITy Academy",
+        "institution": "Narayana College",
         "degrees": [
           {
             "title": "Intermediate Education (Higher Secondary)",
             "year": "Jun 2016 - May 2018",
-            "description": "Completed high schooling under the Telangana State Board of Intermediate Education with an aggregate of 95%.."
+            "description": "Completed high schooling under the Board of Intermediate Education Andhra Pradesh with score of 970 of 1000."
           }
         ],
-        "institutionURL": "https://www.linkedin.com/company/velociity"
+        "institutionURL": "https://www.narayanajuniorcolleges.com/"
       },
       {
-        "institution": "St. Joseph's Public School",
+        "institution": "St. John's English Medium High School",
         "degrees": [
           {
-            "title": "I.C.S.E. (Secondary School)",
+            "title": "SSC (Secondary School)",
             "year": "Jun 2006 - May 2016",
-            "description": "Completed secondary schooling with I.C.S.E. curriculum, securing a notable score of 84.6%. Served as the student president for the academic year 2015-16, and was awarded the Student of the Year for the class of 2016."
+            "description": "Completed secondary schooling with SSC curriculum, securing a notable score of 9.7 gpa of 10"
           }
         ],
-        "institutionURL": "https://sjpsmalakpet.org/"
-      }
-    ],
-    "volunteerExperience": [
-      {
-        "organization": "Student Council (CMRCET)",
-        "roles": [
-          {
-            "title": "General Secretary",
-            "description": "Pivotal in founding the college's first student council, shaping its structure and constitution. As General Secretary, coordinated activities, bridged communication between management and students, and mentored committee heads. Initiating fundraisers, I led the organization of the college's major annual festivals, Azura & Carpe Diem.",
-            "year": "Sep 2021 - Sep 2022"
-          }
-        ],
-        "organizationURL": "https://cmrcet.ac.in/files/committe/sc-converted.pdf"
-      },
-      {
-        "organization": "League of Coders",
-        "roles": [
-          {
-            "title": "President",
-            "description": "Championed a thriving programming culture by organizing intercollegiate hackathons and programming contests. Conducted multiple sessions on data structures, algorithms, and development for junior students. Successfully hosted major inter-college events, including 'Code League' and 'DevJam'.",
-            "year": "Jan 2020 - Jul 2021"
-          }
-        ],
-        "organizationURL": "https://www.linkedin.com/company/loc-cmrcet/"
-      },
-      {
-        "organization": "We the Circle Initiative",
-        "roles": [
-          {
-            "title": "Volunteer",
-            "description": "Volunteered with the design team for four months, managing social media posts and amassing a following of over 300 followers. Coordinated and executed the event 'Being the Voice', dedicated to raising awareness on topics such as gender orientation and women empowerment.",
-            "year": "May 2019 - Present"
-          }
-        ],
-        "organizationURL": "https://www.instagram.com/wethecircleinitiative/"
+        "institutionURL": "https://maps.app.goo.gl/c9nzjadJuDvDM9TCA"
       }
     ]
   },
@@ -201,10 +145,6 @@
       "icon": "GrReactjs"
     },
     {
-      "title": "Arduino",
-      "icon": "SiArduino"
-    },
-    {
       "title": "Debugging",
       "icon": "CgDebug"
     },
@@ -229,48 +169,8 @@
       "icon": "SiMongodb"
     },
     {
-      "title": "Serverless Functions",
-      "icon": "PiFunctionBold"
-    },
-    {
       "title": "Deployment",
       "icon": "BsFillCloudArrowUpFill "
-    },
-    {
-      "title": "DNS Management",
-      "icon": "LuServerCog"
-    },
-    {
-      "title": "Hyperledger Besu",
-      "icon": "SiHyperledger"
-    },
-    {
-      "title": "Smart Contract Development",
-      "icon": "FaFileContract "
-    },
-    {
-      "title": "Private Blockchain",
-      "icon": "SiEthereum"
-    },
-    {
-      "title": "RaspberryPi",
-      "icon": "FaRaspberryPi"
-    },
-    {
-      "title": "Internet of Things",
-      "icon": "MdSensors"
-    },
-    {
-      "title": "MS Office",
-      "icon": "SiMicrosoftoffice"
-    },
-    {
-      "title": "Adobe Photoshop",
-      "icon": "SiAdobephotoshop"
-    },
-    {
-      "title": "Canva",
-      "icon": "SiCanva"
     },
     {
       "title": "Team Management",
@@ -289,10 +189,6 @@
       "icon": "FaComments"
     },
     {
-      "title": "Negotiation",
-      "icon": "FaHandshake"
-    },
-    {
       "title": "Remote Collaboration",
       "icon": "FaHouseLaptop"
     },
@@ -303,124 +199,27 @@
   ],
   "interests": [
     {
-      "title": "Blockchain",
-      "description": "Experienced in crafting blockchain solutions using Hyperledger Besu, Solidity, and Ethereum. My focus lies in building private blockchain networks tailored for transformative applications in academia and the public sector.",
-      "icon": "GrCubes"
-    },
-    {
-      "title": "Artificial Intelligence",
-      "description": "Certified IBM AI Engineer with expertise in SSDs and YOLO algorithms for image detection. Skilled in building deep learning models for scene analysis. Currently expanding my knowledge with a focus on SLMs.",
-      "icon": "RiRobot2Line"
-    },
-    {
-      "title": "Digital Governance",
-      "description": "Passionate about the intersection of technology and policy. Eager to contribute to the development of products that facilitate effective governance. Experienced in working with non-profit organizations.",
-      "icon": "RiGovernmentLine"
-    },
-    {
       "title": "Software Development",
       "description": "Passionate about creating impactful products, I have hands-on experience building websites, applications and backend services. Currently honing my skills in crafting clean and efficient software for optimal user experiences.",
       "icon": "MdDevicesOther"
-    },
-    {
-      "title": "Smart Systems",
-      "description": "Extensive hands-on experience in developing Arduino and IoT projects. Worked under the esteemed guidance of Padmasri Chintakindi Mallesham to enhance the control unit and working of 'Laxmi Asu Machine' using Arduino.",
-      "icon": "HiOutlineChip"
-    },
-    {
-      "title": "Motorcycling",
-      "description": "I'm an avid motorcycle enthusiast, exploring various outskirts of Hyderabad on frequent rides. Recently completed my longest solo ride, covering over 2100 kms. Always up for a chat about bikes and adventure.",
-      "icon": "GiFullMotorcycleHelmet"
     }
   ],
   "portfolio": {
     "portfolioItems": [
       {
-        "title": "VeriCert",
-        "description": "A service for issuing and verifying digital academic credentials, constructed on private blockchain networks.",
-        "link": "https://vericert.vercel.app",
-        "imageName": "vericert.webp",
-        "imageAlt": "VeriCert Image",
-        "technologies": ["Ethereum", "Hyperledger Besu", "Solidity"]
-      },
-      {
-        "title": "Asu Machine Enhancement",
-        "description": "Improved Laxmi Asu Machine, enabled diverse fabric designs for Pochampally artisans using Arduino.",
-        "link": "https://docs.nmreddy.me/laxmi-asu-machine/",
-        "imageName": "arduino.webp",
-        "imageAlt": "Arduino Image",
-        "technologies": ["Arduino", "Hardware Integration", "Sensors"]
-      },
-      {
-        "title": "DIY Portfolio",
-        "description": "A user-friendly, open-source portfolio website that can be cloned and personalized with a single config file modification.",
-        "link": "https://github.com/ManishReddyN/diy-portfolio",
-        "imageName": "portfolio.webp",
-        "imageAlt": "Portfolio Image",
-        "technologies": ["NextJS", "Edge Functions", "CSS", "Notion API"]
-      },
-      {
-        "title": "Linkz - URL Shortener",
-        "description": "A URL shortening service created utilizing Node.js, React.js, and MongoDB, with the option to customize the trailing part.",
-        "link": "https://github.com/ManishReddyN/link-shortener",
-        "imageName": "linkz.webp",
-        "imageAlt": "Linkz Image",
-        "technologies": ["React", "NodeJS", "MongoDB"]
-      },
-      {
-        "title": "Code Runner",
-        "description": "Free online compiler for C, C++, Java, and Python, boosts productivity with 2-second link generation and intuitive UI.",
-        "link": "https://github.com/ManishReddyN/IDE",
-        "imageName": "coderunner.webp",
-        "imageAlt": "Code Runner Image",
-        "technologies": ["React", "NodeJS", "MongoDB", "EMKC API"]
-      },
-      {
-        "title": "De-cent Books",
-        "description": "An Ethereum Blockchain-based bookshop with decentralized e-commerce, employing Smart Contracts.",
-        "link": "https://github.com/ManishReddyN/de-cent-books-dapp",
-        "imageName": "decentbooks.webp",
-        "imageAlt": "De-cent Books Image",
-        "technologies": ["Truffle", "Ethereum", "Solidity", "React"]
-      }
-    ]
-  },
-  "archive": {
-    "archiveItems": [
-      {
-        "title":"DIY Portfolio",
-        "date": "Feb 2023",
-        "imageName": "DIY-Portfolio.webp",
-        "imageAlt": "DIY Portfolio Cover",
-        "link": "https://blog.nmreddy.me/diy-portfolio"
-      },
-      {
-        "title": "VeriCert White Paper",
-        "date": "Nov 2023",
-        "imageName": "VeriCert-WhitePaper.webp",
-        "imageAlt": "Vericert White Paper Cover",
-        "link": "https://vericert.vercel.app"
-      },
-      {
-        "title": "Building Code Runner",
-        "date": "Jun 2021",
-        "imageName": "Building-CodeRunner.webp",
-        "imageAlt": "Blog Cover Image",
-        "link": "https://blog.nmreddy.me/series/code-runner"
-      },
-      {
-        "title": "#100DaysOfCode Challenge",
-        "date": "Jun 2020",
-        "imageName": "100-Days-Of-Code.webp",
-        "imageAlt": "Blog Cover Image",
-        "link": "https://blog.nmreddy.me/series/100doc"
+        "title": "SnapStore",
+        "description": "Snapstore is a fullstack web application where users can upload pictures, chat with friends, like,comment and save the posts, follow others and many more...",
+        "link": "https://snapstore-codesnap.vercel.app/",
+        "imageName": "snapstore_app.png",
+        "imageAlt": "Snapstore Image",
+        "technologies": ["Javascript", "React", "Tailwind CSS", "Firebase"]
       }
     ]
   },
   "contact": {
-    "phone": "+91 707 569 8828",
-    "emailID": "hello@nmreddy.me",
-    "address": "Hyderabad, Telangana",
-    "addressLink": "https://www.google.com/maps/place/Hyderabad,+Telangana/"
+    "phone": "+1 (919) 538 5336",
+    "emailID": "karnatisaimanikanta123@gmail.com",
+    "address": "Charlotte, North Carolina, United States",
+    "addressLink": "https://www.google.com/maps/place/Charlotte/"
   }
 }

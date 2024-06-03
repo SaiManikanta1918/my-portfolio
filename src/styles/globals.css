@@ -84,7 +84,6 @@ body {
 .containerMain {
   padding: 30px;
   background: var(--primary-background-color);
-  min-height: 100vh;
 }
 
 @media only screen and (max-width: 1080px) {

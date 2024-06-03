@@ -1,1 +1,0 @@
-### Manish Reddy's Portfolio

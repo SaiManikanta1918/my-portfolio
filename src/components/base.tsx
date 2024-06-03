@@ -1,9 +1,14 @@
 import styles from "@/styles/base.module.css";
 import Head from "next/head";
-
-import SideBar from "./sidebar/sidebar";
 import { Col, Container, Row } from "react-bootstrap";
 import data from "@/config/data.json";
+import Home from "./home/home";
+import Profile from "./profile/profile";
+import Resume from "./bio/Resume";
+import Skills from "./skills/skills";
+import Interests from "./interests/interests";
+import Portfolio from "./portfolio/portfolio";
+import Contact from "./contact/contact";
 
 interface BaseProps {
   children: JSX.Element;
@@ -21,9 +26,16 @@ export default function Base({ children }: BaseProps) {
       </Head>
       <Container fluid>
         <Row>
-          <SideBar />
-          <Col className={styles.mainContent} s={12}>
-            <main id="page-wrapper">{children}</main>
+          <Col s={12}>
+            <main id="page-wrapper">
+              <Home/>
+              <Profile/>
+              <Resume/>
+              <Skills />
+              <Interests />
+              <Portfolio />
+              <Contact/>
+            </main>
           </Col>
         </Row>
       </Container>

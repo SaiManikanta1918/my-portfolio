@@ -37,7 +37,6 @@ export default function Contact() {
       "myForm"
     ) as HTMLFormElement;
     form.checkValidity();
-    console.log(inputs);
     event.preventDefault();
     setInput({ ...inputs, error: "", loading: true });
     if (name === "") {
@@ -61,8 +60,8 @@ export default function Contact() {
           "Oops! It seems you forgot to add a subject. Please provide a subject for your message.",
         loading: false,
       });
-    } else if (content.length < 50) {
-      const remainingCharacters = 50 - content.length;
+    } else if (content.length < 10) {
+      const remainingCharacters = 10 - content.length;
       const errorMessage = `Your message is too short. Please add at least ${remainingCharacters} more character${
         remainingCharacters === 1 ? "" : "s"
       }.`;
@@ -181,9 +180,9 @@ export default function Contact() {
                   id="message"
                   name="message"
                   value={content}
-                  minLength={50}
+                  minLength={10}
                   required={true}
-                  placeholder="Please enter your message (50 characters minimum)"
+                  placeholder="Please enter your message (10 characters minimum)"
                   onChange={handleChange("content")}
                   disabled={success || loading}
                 />

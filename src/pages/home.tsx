@@ -1,7 +1,7 @@
 import Head from "next/head";
-import Base from "@/components/base";
 import Home from "@/components/home/home";
 import data from "@/config/data.json";
+import Base from "@/components/base";
 
 export default function HomePage() {
   return (
