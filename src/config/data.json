@@ -121,10 +121,6 @@
   },
   "skills": [
     {
-      "title": "Java",
-      "icon": "GrJava"
-    },
-    {
       "title": "Python",
       "icon": "IoLogoPython"
     },
@@ -132,13 +128,14 @@
       "title": "JavaScript",
       "icon": "BiLogoJavascript"
     },
-    {
-      "title": "Solidity",
-      "icon": "SiSolidity"
-    },
+    
     {
       "title": "Node",
       "icon": "GrNode"
+    },
+    {
+      "title": "VueJS",
+      "icon": "BiLogoVuejs"
     },
     {
       "title": "ReactJS",
@@ -147,6 +144,10 @@
     {
       "title": "Debugging",
       "icon": "CgDebug"
+    },
+    {
+      "title": "Solidity",
+      "icon": "SiSolidity"
     },
     {
       "title": "Git",
@@ -195,6 +196,46 @@
     {
       "title": "Teamwork",
       "icon": "BiGroup"
+    },
+    {
+      "title": "Java",
+      "icon": "FaJava"
+    },
+    {
+      "title": "AWS",
+      "icon": "FaAws"
+    },
+    {
+      "title": "Bitbucket",
+      "icon": "FaBitbucket"
+    },
+    {
+      "title": "Jira",
+      "icon": "SiJira"
+    },
+    {
+      "title": "Codeship",
+      "icon": "SiCodeship"
+    },
+    {
+      "title": "VS Code",
+      "icon": "VscVscode"
+    },
+    {
+      "title": "Playwright",
+      "icon": "SiPlaywright"
+    },
+    {
+      "title": "Meteor JS",
+      "icon": "SiMeteor"
+    },
+    {
+      "title": "Spring Boot",
+      "icon": "BiLogoSpringBoot"
+    },
+    {
+      "title": "My SQL",
+      "icon": "SiMysql"
     }
   ],
   "interests": [
