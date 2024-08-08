@@ -259,7 +259,7 @@
         "title": "Dapp-bookstore",
         "description": "Dapp-bookstore is a blockchain (smart contracts) application implemented using solidity. It is a bookstore where we can sell books and add books through the ganache cli",
         "link": "https://github.com/SaiManikanta1918/Dapp-bookstore",
-        "imageName": "blockchain_technology.png",
+        "imageName": "blockchain_technology.jpg",
         "imageAlt": "Decentralized Book Store",
         "technologies": ["Javascript", "React", "Solidity"]
       }
