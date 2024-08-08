@@ -43,7 +43,7 @@
         "roles": [
           {
             "title": "Software Engineer",
-            "description": "Mainly focusses on the design part, developing new features according to the user requirements, and addressing critical defects in the product, contributing to the enhancement of product reliability and performance.",
+            "description": "With around 3 years of experience in Java, React, Angular, and advanced JavaScript, I'm deeply passionate about software development. I've played a key role in driving core functionality and features in both my current and previous roles. In my current project, the features I've implemented have resulted in a 15% increase in sales and enhanced customer satisfaction with the user experience. Additionally, I introduced caching techniques in the front end, reducing database calls by 20%, and implemented automation with Playwright, which led to a 25% reduction in bugs within the application. We're committed to continuously adding more features to further delight our customers and clients.",
             "year": "Jan 2024 - Present"
           }
         ],
@@ -54,7 +54,7 @@
         "roles": [
           {
             "title": "Associate Software Engineer",
-            "description": "Worked on Pub-Sub models and developed reactive features in the application and improved existing features with new architecture. Worked on REST APIs with Node js and Express for the backend of the application. Worked on the architecture by using Design Patterns to design complex and robust features in the application. Enhanced database performance by optimizing MongoDB access through the implementation of indexes, by utilizing mongodb atlas search which is mongodb cloud service resulting in faster data retrieval and performance inprovement by 10%",
+            "description": "I worked on Pub-Sub models to develop reactive features and re-architected existing ones for improved performance. For the backend, I built REST APIs using Node.js and Express. Additionally, I utilized Design Patterns to create complex and robust application features. To enhance database performance, I optimized MongoDB queries by implementing indexes and using MongoDB Atlas Search, a cloud service, which led to a 10% increase in data retrieval speed and overall performance.",
             "year": "July 2022 - Nov 2023"
           }
         ],
@@ -241,7 +241,7 @@
   "interests": [
     {
       "title": "Software Development",
-      "description": "Passionate about creating impactful products, I have hands-on experience building websites, applications and backend services. Currently honing my skills in crafting clean and efficient software for optimal user experiences.",
+      "description": "Driven by a passion for creating meaningful products, I have practical experience in developing websites, applications, backend services, and blockchain solutions using Solidity. I'm currently focused on enhancing my ability to craft clean, efficient software to deliver the best possible user experiences.",
       "icon": "MdDevicesOther"
     }
   ],
@@ -254,6 +254,12 @@
         "imageName": "snapstore_app.png",
         "imageAlt": "Snapstore Image",
         "technologies": ["Javascript", "React", "Tailwind CSS", "Firebase"]
+      },
+      {
+        "title": "Dapp-bookstore",
+        "description": "Dapp-bookstore is a blockchain (smart contracts) application implemented using solidity. It is a bookstore where we can sell books and add books through the ganache cli",
+        "link": "https://github.com/SaiManikanta1918/Dapp-bookstore",
+        "technologies": ["Javascript", "React", "Solidity"]
       }
     ]
   },
