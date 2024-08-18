@@ -5,7 +5,7 @@
   },
   "home": {
     "name": "SaiManikanta",
-    "intro": "A Strategic Software Engineer with about 3 years of industry experience and skilled in application development, testing and optimization. Excels at coordinating ground-up planning, programming, and implementation for core modules.Maintains strong object-oriented and software architecture fundamentals. Talented Software Developer equipped with great coding, debugging and project management abilities. Accomplishes project goals consistently with elegant, scalable code. Works great with team members under Agile and Scrum frameworks.",
+    "intro": "A Strategic Software Engineer with above 3 years of industry experience and skilled in application development, testing and optimization. Excels at coordinating ground-up planning, programming, and implementation for core modules.Maintains strong object-oriented and software architecture fundamentals. Talented Software Developer equipped with great coding, debugging and project management abilities. Accomplishes project goals consistently with elegant, scalable code. Works great with team members under Agile and Scrum frameworks.",
     "socialLinks": [
       {
         "name": "Github",
@@ -32,7 +32,7 @@
       "openToCollaboration": "Yes",
       "coreCompetencies": "Technology & Development",
       "coreCompetenciesShort": "Tech & Dev",
-      "personalPursuits": "ML & Mobile App Development"
+      "personalPursuits": "Data Science & Web Development"
     },
     "resume": "ksm_resume.pdf"
   },
@@ -43,7 +43,7 @@
         "roles": [
           {
             "title": "Software Engineer",
-            "description": "With around 3 years of experience in Java, React, Angular, and advanced JavaScript, I'm deeply passionate about software development. I've played a key role in driving core functionality and features in both my current and previous roles. In my current project, the features I've implemented have resulted in a 15% increase in sales and enhanced customer satisfaction with the user experience. Additionally, I introduced caching techniques in the front end, reducing database calls by 20%, and implemented automation with Playwright, which led to a 25% reduction in bugs within the application. We're committed to continuously adding more features to further delight our customers and clients.",
+            "description": "Experienced Software Development Engineer in Java, React, Angular, and advanced JavaScript, I'm deeply passionate about software development. I've played a key role in driving core functionality and features in both my current and previous roles. In my current project, the features I've implemented have resulted in a 15% increase in sales and enhanced customer satisfaction with the user experience. Additionally, I introduced caching techniques in the front end, reducing database calls by 20%, and implemented automation with Playwright, which led to a 25% reduction in bugs within the application. We're committed to continuously adding more features to further delight our customers and clients.",
             "year": "Jan 2024 - Present"
           }
         ],
@@ -128,7 +128,7 @@
       "title": "JavaScript",
       "icon": "BiLogoJavascript"
     },
-    
+
     {
       "title": "Node",
       "icon": "GrNode"
@@ -150,10 +150,6 @@
       "icon": "SiSolidity"
     },
     {
-      "title": "Git",
-      "icon": "FaGitAlt"
-    },
-    {
       "title": "Agile Methodologies",
       "icon": "DiScrum"
     },
@@ -168,10 +164,6 @@
     {
       "title": "MongoDB",
       "icon": "SiMongodb"
-    },
-    {
-      "title": "Deployment",
-      "icon": "BsFillCloudArrowUpFill "
     },
     {
       "title": "Team Management",
@@ -206,6 +198,44 @@
       "icon": "FaAws"
     },
     {
+      "title": "Playwright",
+      "icon": "SiPlaywright"
+    },
+    {
+      "title": "Meteor JS",
+      "icon": "SiMeteor"
+    },
+    {
+      "title": "Spring Boot",
+      "icon": "BiLogoSpringBoot"
+    },
+    {
+      "title": "My SQL",
+      "icon": "SiMysql"
+    },
+    {
+      "title": "Material UI",
+      "icon": "SiMui"
+    },
+    {
+      "title": "Quasar",
+      "icon": "SiQuasar"
+    },
+    {
+      "title": "Tailwind CSS",
+      "icon": "SiTailwindcss  "
+    },
+    {
+      "title": "Bootstrap",
+      "icon": "SiBootstrap"
+    }
+  ],
+  "tools": [
+    {
+      "title": "Git",
+      "icon": "FaGitAlt"
+    },
+    {
       "title": "Bitbucket",
       "icon": "FaBitbucket"
     },
@@ -222,20 +252,8 @@
       "icon": "SiVisualstudio"
     },
     {
-      "title": "Playwright",
-      "icon": "SiPlaywright"
-    },
-    {
-      "title": "Meteor JS",
-      "icon": "SiMeteor"
-    },
-    {
-      "title": "Spring Boot",
-      "icon": "BiLogoSpringBoot"
-    },
-    {
-      "title": "My SQL",
-      "icon": "SiMysql"
+      "title": "Docker",
+      "icon": "SiDocker"
     }
   ],
   "interests": [
