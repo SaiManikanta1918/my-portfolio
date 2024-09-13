@@ -43,7 +43,7 @@
         "roles": [
           {
             "title": "Software Engineer",
-            "description": "Experienced Software Development Engineer in Java, React, Angular, and advanced JavaScript, I'm deeply passionate about software development. I've played a key role in driving core functionality and features in both my current and previous roles. In my current project, the features I've implemented have resulted in a 15% increase in sales and enhanced customer satisfaction with the user experience. Additionally, I introduced caching techniques in the front end, reducing database calls by 20%, and implemented automation with Playwright, which led to a 25% reduction in bugs within the application. We're committed to continuously adding more features to further delight our customers and clients.",
+            "description": "Experienced Software Development Engineer in Java, React, Angular, and advanced JavaScript, I'm deeply passionate about software development. I've played a key role in driving core functionality and features in both my current and previous roles. In my current project, the features I've implemented have resulted in a 15% increase in sales and enhanced customer satisfaction with the user experience. Additionally, I introduced caching techniques in the front end, reducing database calls by 20%, and implemented automation with Playwright, which led to a 25% reduction in bugs within the application. ",
             "year": "Jan 2024 - Present"
           }
         ],
@@ -121,14 +121,21 @@
   },
   "skills": [
     {
-      "title": "Python",
-      "icon": "IoLogoPython"
-    },
-    {
       "title": "JavaScript",
       "icon": "BiLogoJavascript"
     },
-
+    {
+      "title": "Java",
+      "icon": "FaJava"
+    },
+    {
+      "title": "AWS",
+      "icon": "FaAws"
+    },
+    {
+      "title": "Python",
+      "icon": "IoLogoPython"
+    },
     {
       "title": "Node",
       "icon": "GrNode"
@@ -141,61 +148,14 @@
       "title": "ReactJS",
       "icon": "GrReactjs"
     },
-    {
-      "title": "Debugging",
-      "icon": "CgDebug"
-    },
+
     {
       "title": "Solidity",
       "icon": "SiSolidity"
     },
     {
-      "title": "Agile Methodologies",
-      "icon": "DiScrum"
-    },
-    {
-      "title": "Unit Testing",
-      "icon": "FaCheckDouble"
-    },
-    {
-      "title": "PostgreSQL",
-      "icon": "BiLogoPostgresql"
-    },
-    {
       "title": "MongoDB",
       "icon": "SiMongodb"
-    },
-    {
-      "title": "Team Management",
-      "icon": "RiTeamFill"
-    },
-    {
-      "title": "Leadership",
-      "icon": "BsFillPersonLinesFill"
-    },
-    {
-      "title": "Problem Solving",
-      "icon": "FaLightbulb"
-    },
-    {
-      "title": "Effective Communication",
-      "icon": "FaComments"
-    },
-    {
-      "title": "Remote Collaboration",
-      "icon": "FaHouseLaptop"
-    },
-    {
-      "title": "Teamwork",
-      "icon": "BiGroup"
-    },
-    {
-      "title": "Java",
-      "icon": "FaJava"
-    },
-    {
-      "title": "AWS",
-      "icon": "FaAws"
     },
     {
       "title": "Playwright",
@@ -228,6 +188,38 @@
     {
       "title": "Bootstrap",
       "icon": "SiBootstrap"
+    },
+    {
+      "title": "Debugging",
+      "icon": "CgDebug"
+    },
+    {
+      "title": "Agile Methodologies",
+      "icon": "DiScrum"
+    },
+    {
+      "title": "Unit Testing",
+      "icon": "FaCheckDouble"
+    },
+    {
+      "title": "Team Management",
+      "icon": "RiTeamFill"
+    },
+    {
+      "title": "Leadership",
+      "icon": "BsFillPersonLinesFill"
+    },
+    {
+      "title": "Problem Solving",
+      "icon": "FaLightbulb"
+    },
+    {
+      "title": "Effective Communication",
+      "icon": "FaComments"
+    },
+    {
+      "title": "Teamwork",
+      "icon": "BiGroup"
     }
   ],
   "tools": [
@@ -280,6 +272,14 @@
         "imageName": "blockchain_technology.jpg",
         "imageAlt": "Decentralized Book Store",
         "technologies": ["Javascript", "React", "Solidity"]
+      },
+      {
+        "title": "Snake Game",
+        "description": "Developed a classic Snake game where players navigate a growing snake to eat food and avoid collisions. The game emphasizes reflexes and strategy as players aim for the highest score.",
+        "link": "https://github.com/SaiManikanta1918/snake_game",
+        "imageName": "snake_game.jpg",
+        "imageAlt": "Decentralized Book Store",
+        "technologies": ["Java"]
       }
     ]
   },
@@ -289,4 +289,5 @@
     "address": "Charlotte, North Carolina, United States",
     "addressLink": "https://www.google.com/maps/place/Charlotte/"
   }
+
 }
