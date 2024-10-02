@@ -43,7 +43,7 @@
         "roles": [
           {
             "title": "Software Engineer",
-            "description": "Experienced Software Development Engineer in Java, React, Angular, and advanced JavaScript, I'm deeply passionate about software development. I've played a key role in driving core functionality and features in both my current and previous roles. In my current project, the features I've implemented have resulted in a 15% increase in sales and enhanced customer satisfaction with the user experience. Additionally, I introduced caching techniques in the front end, reducing database calls by 20%, and implemented automation with Playwright, which led to a 25% reduction in bugs within the application. ",
+            "description": "Experienced Software Development Engineer in Java, React, Angular, and advanced JavaScript, I'm deeply passionate about software development. I've played a key role in driving core functionality and features in both my current and previous roles. In my current project, the features I've implemented have resulted in a 15% increase in sales and enhanced customer satisfaction with the user experience. Additionally, I introduced caching techniques in the front end, reducing database calls by 20%, and implemented automation with Playwright, which led to a 45% reduction in bugs within the application. ",
             "year": "Jan 2024 - Present"
           }
         ],
@@ -66,7 +66,7 @@
           {
             "title": "Engineer Trainee",
             "description": "Experienced team leader adept at overseeing React front-end projects and Java backend development with a small team during my internship. Proficient in guiding projects to success through collaborative efforts, strategic planning, and technical acumen, Participating in code reviews to ensure code quality, adherence to coding standards",
-            "year": "Sep 2021 - Aug 2022"
+            "year": "Sep 2021 - Jul 2022"
           }
         ],
         "companyURL": "https://website.xebia.com/digital-transformation/software-technology/product-engineering/"
